@@ -1,17 +1,18 @@
-# 🎵 **Eloqi** - Professional Audio & Media Suite for macOS
+# **Eloqi** - Professional Audio & Media Suite for macOS
 
 <div align="center">
 
-![Eloqi Logo](https://via.placeholder.com/200x80/6366f1/ffffff?text=Eloqi)
+![Eloqi Logo](https://github.com/user-attachments/assets/c61f6b74-dc6c-4a0d-9f65-aef1bb14ca9c)
 
 **Transform your audio and media workflow with AI-powered professional tools**
 
-[![macOS](https://img.shields.io/badge/macOS-11.0+-blue.svg)](https://www.apple.com/macos/)
+[![macOS](https://img.shields.io/badge/macOS-13.0+-blue.svg)](https://www.apple.com/macos/)
 [![Swift](https://img.shields.io/badge/Swift-5.0+-orange.svg)](https://swift.org/)
 [![License](https://img.shields.io/badge/License-Commercial-green.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/Version-1.0-brightgreen.svg)](https://github.com/yourusername/eloqi/releases)
 
-[🚀 **Download Now**](https://github.com/yourusername/eloqi/releases) • [📖 **Documentation**](docs/) • [💬 **Support**](mailto:support@eloqi.com)
+<a href="https://github.com/itsabhishekolkha/Eloqi/releases/download/v1.0.0/RetinaScale.2.0.0.dmg"><img src="https://github.com/user-attachments/assets/a959a0d3-703f-4740-a6ec-ddbaceb0cf74" width="180" alt="Download for macOS"/></a><br/> 
+<sub><b>The latest app version requires macOS 13.0 (Vantura) or later.</b></sub>
 
 </div>
 
@@ -19,27 +20,29 @@
 
 ## ✨ **What Makes Eloqi Special?**
 
-Eloqi combines **cutting-edge AI technology** with native macOS performance to deliver professional-grade audio and media processing. Built with advanced machine learning models and optimized for Apple Silicon, it's the complete solution for content creators, podcasters, and media professionals.
+Eloqi combines **cutting-edge technology** with native macOS performance to deliver professional-grade audio and media processing. Built with advanced machine learning models and optimized for Apple Silicon and intel Mac, it's the complete solution for content creators, podcasters, and media professionals.
 
-### 🎯 **Three Powerful AI-Driven Modes**
+### 🎯 **Three Powerful Modes**
 
-| **🎤 Piper TTS** | **🔊 ClearVoice AI** | **🛠️ Media Tools** |
+| **🎤 Text To Speech** | **🔊 Clear Voice AI** | **🛠️ Media Tools** |
 |:---:|:---:|:---:|
 | Neural text-to-speech with natural voices | AI-powered audio enhancement using state-of-the-art models | 25+ professional media processing tools |
 | Multiple languages & voice models | Advanced noise reduction & speech separation | Video, audio, and image conversion |
-| ONNX-optimized voice synthesis | GPU-accelerated processing | Batch processing capabilities |
+| ONNX-optimized voice synthesis | Batch processing capabilities(Currently in some Media Tools as of now) |
 
 ---
 
 ## 🚀 **Advanced AI Features**
+ Note:- AI features only for ClearVoice
 
-### 🎙️ **Piper Neural TTS Engine**
+### 🎙️ ** Neural TTS Engine**
 - **High-fidelity voice synthesis** using ONNX neural models
 - **Multi-language support** with downloadable voice packs
 - **Quality tiers** (low, medium, high) for different use cases
 - **Local processing** - no internet required after voice download
 - **Custom output directories** with organized file management
 - **UUID-based file naming** prevents conflicts
+- **Can generate long audio files(Tested 30 min+ audio generation from text currently.)
 
 ### 🔥 **ClearVoice - State-of-the-Art Audio AI**
 
@@ -55,7 +58,6 @@ Eloqi combines **cutting-edge AI technology** with native macOS performance to d
 - **Real-time progress tracking** with tqdm-style feedback
 - **Automatic disk space management** (1GB minimum requirement)
 - **Robust error handling** with detailed logging
-- **Background processing** without UI blocking
 
 ### 🎬 **Comprehensive Media Tools Suite**
 Transform any media file with **25+ professional tools**:
@@ -89,17 +91,12 @@ Transform any media file with **25+ professional tools**:
 
 ### ⚡ **Optimized Performance**
 - **Native Swift/SwiftUI** implementation for maximum macOS integration
-- **Apple Silicon optimization** with Metal GPU acceleration
+- **Apple Silicon optimization** with only CPU acceleration
+       (ClearVoice currently supports WAV files only. To convert other file types to WAV, use the Audio Conversion option in the Tools section. Audio conversion will produce the highest quality possible, resulting in larger file sizes, which may increase ClearVoice processing time as files are generated using CPU only, why???, Well CUDA is not supported on macOS because it requires NVIDIA GPUs (available on Linux/Windows) so Mac os will use CPU only.)
 - **Efficient memory management** for large audio files
 - **Asynchronous processing** with real-time progress updates
 - **Background task handling** with proper resource cleanup
 
-### 🧠 **AI Model Integration**
-- **ONNX runtime** for cross-platform neural model compatibility
-- **Core ML integration** for Apple's machine learning framework
-- **Embedded model distribution** - no separate downloads for core features
-- **Dynamic model loading** based on task requirements
-- **Progressive enhancement** - graceful degradation on older hardware
 
 ### 🔒 **Privacy & Security**
 - **100% local processing** - your audio never leaves your device
@@ -112,11 +109,11 @@ Transform any media file with **25+ professional tools**:
 
 ## 🎯 **Perfect For**
 
-| **Content Creators** | **Podcasters** | **Video Editors** | **Businesses** |
-|:---:|:---:|:---:|:---:|
-| AI voice generation | Professional audio cleanup | Format compatibility | Automated voice-overs |
-| Quick media conversion | Noise reduction & enhancement | Batch processing | Presentation audio |
-| Thumbnail generation | Speech separation | Resolution scaling | Multi-language content |
+| **Content Creators** | **Podcasters** | **Video Editors** |
+|:---:|:---:|:---:|
+| AI voice generation | Professional audio cleanup | Format compatibility | 
+| Quick media conversion | Noise reduction & enhancement | Batch processing | 
+| Thumbnail generation | Speech separation | Resolution scaling |
 
 ---
 
@@ -136,7 +133,7 @@ Transform any media file with **25+ professional tools**:
 - **SSD storage** for faster model loading
 
 ### **Storage Requirements**
-- **Base app**: ~500MB
+- **Base app**: ~3.62GB
 - **Voice models**: 50-200MB per voice
 - **AI models**: Included in app bundle
 - **Working space**: 1GB minimum free space required
@@ -145,19 +142,54 @@ Transform any media file with **25+ professional tools**:
 
 ## 🚀 **Quick Start**
 
-### **Installation**
-1. **Download** the latest release from [GitHub Releases](https://github.com/yourusername/eloqi/releases)
-2. **Install** by dragging Eloqi to your Applications folder
-3. **First launch** - macOS will verify the app signature
-4. **Grant permissions** for file access when prompted
+## Installation
 
-### **Getting Started with AI Features**
+### Download and Install
+1. Download the latest release from [GitHub Releases](https://github.com/yourusername/eloqi/releases)
+2. Drag Eloqi to your Applications folder to complete the installation
+
+### Important Security Notice for macOS Users
+
+When you first attempt to open Eloqi, macOS may display a warning message stating that the app "cannot be opened because it is from an unidentified developer" or that it "may damage your computer." **This is a normal security response and does not indicate any actual threat.**
+
+#### Why This Happens
+As an independent student developer, I currently don't have an Apple Developer License, which means:
+- The app is not code-signed with Apple's official developer certificate
+- The app has not been notarized through Apple's automated security review process
+- macOS Gatekeeper treats unsigned applications as potentially unsafe by default
+
+This is a standard security measure Apple implements for all unsigned applications, regardless of their actual safety.
+
+#### How to Open Eloqi Safely
+
+**Method 1: Using Terminal (Recommended)**
+```bash
+sudo xattr -rd com.apple.quarantine /Applications/Eloqi.app
+```
+This command removes the quarantine flag that prevents the app from opening. After running this command, Eloqi will launch normally.
+
+**Method 2: System Preferences**
+1. Go to System Preferences → Security & Privacy
+2. Click "Open Anyway" when the blocked app notification appears
+3. Confirm your choice when prompted
+
+#### Future Plans
+I am working toward obtaining proper code signing certificates to eliminate this security warning in future releases. Thank you for your understanding as I continue developing Eloqi as a student project.
+
+---
+
+*If you encounter any issues during installation, please [open an issue](https://github.com/yourusername/eloqi/issues) on GitHub.*
+4. **First launch** - macOS will verify the app signature
+5. **Grant permissions** for file access when prompted
+
+### **Getting Started with Eloqi**
 
 #### **Text-to-Speech (Piper TTS)**
 1. Select your preferred voice and quality level
-2. Download voice models (one-time setup per voice)
-3. Enter your text and choose output location
-4. Generate high-quality speech audio
+2. Download voice models from settings(one-time setup per voice)
+   Note: There is a bug in the app that when user downloads any voice it doesn't appear in downloaded voices instantly to resolve this after downloading voices close settings and reopen, that's it voices are now appears as downloaded.
+4. Enter your text and choose output location
+5. Generate high-quality speech audio
 
 #### **ClearVoice Enhancement**
 1. Choose the appropriate AI model for your audio type
@@ -169,7 +201,7 @@ Transform any media file with **25+ professional tools**:
 - **Voice Models**: Download multiple voices for different projects
 - **AI Models**: MossFormer2 models offer the best quality for most use cases
 - **Batch Processing**: Use Media Tools for processing multiple files
-- **Performance**: Apple Silicon Macs provide 2-3x faster AI processing
+- **Performance**: Apple Silicon Macs provide 2-3x faster AI processing(only with CPU)
 
 ---
 
