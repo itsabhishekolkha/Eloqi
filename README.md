@@ -120,7 +120,7 @@ Transform any media file with **25+ professional tools**:
 ## 📱 **System Requirements**
 
 ### **Minimum Requirements**
-- **macOS 11.0** or later
+- **macOS 13.0** or later
 - **4GB RAM** (8GB recommended for AI processing)
 - **2GB** available storage space
 - **Intel or Apple Silicon** processor
