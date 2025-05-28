@@ -126,7 +126,7 @@ Transform any media file with **25+ professional tools**:
 - **Intel or Apple Silicon** processor
 
 ### **Recommended for AI Features**
-- **macOS 12.0** or later
+- **macOS 13.0** or later
 - **Apple Silicon (M1/M2/M3)** for optimal AI performance
 - **8GB RAM** or higher
 - **Metal-compatible GPU** for acceleration
@@ -216,7 +216,7 @@ I am working toward obtaining proper code signing certificates to eliminate this
 ![ClearVoice](https://github.com/user-attachments/assets/d68cec07-528c-4bb9-961c-6c21e5fd1b32)
 
 ### Comprehensive Media Tools
-![Media Tools 1](https://github.com/user-attachments/assets/ce6ebe3a-1281-4ee5-8722-44b56fc93e88)
+![Media Tools 1](https://github.com/user-attachments/assets/ce6ebe3a-1381-4ee5-8722-44b56fc93e88)
 ![Media Tools 2](https://github.com/user-attachments/assets/d5d71a00-0a4b-44ae-8616-e83208569218)
 ![Media Tools 3](https://github.com/user-attachments/assets/e63932dc-a54d-437f-8cac-989436c23b7e)
 
