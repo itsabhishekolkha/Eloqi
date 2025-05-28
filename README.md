@@ -205,42 +205,27 @@ I am working toward obtaining proper code signing certificates to eliminate this
 
 ---
 
-## 🎨 **Screenshots**
+##  **Screenshots**
 
 <div align="center">
 
 ### Neural Text-to-Speech Interface
-![TTS Interface](https://via.placeholder.com/800x500/f3f4f6/374151?text=Piper+Neural+TTS+Engine)
+![TTS Interface](https://github.com/user-attachments/assets/7631f444-7ccb-49a6-b7e7-9938160c9006)
 
 ### ClearVoice AI Enhancement
-![ClearVoice](https://via.placeholder.com/800x500/f3f4f6/374151?text=AI-Powered+Audio+Enhancement)
+![ClearVoice](https://github.com/user-attachments/assets/d68cec07-528c-4bb9-961c-6c21e5fd1b32)
 
 ### Comprehensive Media Tools
-![Media Tools](https://via.placeholder.com/800x500/f3f4f6/374151?text=25%2B+Professional+Tools)
+![Media Tools 1](https://github.com/user-attachments/assets/ce6ebe3a-1281-4ee5-8722-44b56fc93e88)
+![Media Tools 2](https://github.com/user-attachments/assets/d5d71a00-0a4b-44ae-8616-e83208569218)
+![Media Tools 3](https://github.com/user-attachments/assets/e63932dc-a54d-437f-8cac-989436c23b7e)
 
 </div>
 
 ---
 
-## 🏆 **What Users Are Saying**
+##  **Technical Architecture**
 
-> *"The AI audio enhancement is phenomenal - better than tools costing thousands!"*  
-> **— Sarah K., Podcast Producer**
-
-> *"Piper TTS voices sound incredibly natural. Perfect for my video projects."*  
-> **— Mike R., Content Creator**
-
-> *"Finally, professional AI audio tools that work completely offline on Mac!"*  
-> **— David L., Audio Engineer**
-
-> *"The MossFormer2 models deliver studio-quality results in seconds."*  
-> **— Lisa M., Voiceover Artist**
-
----
-
-## 🔧 **Technical Architecture**
-
-**Built with cutting-edge technology:**
 - **SwiftUI** for native macOS experience
 - **AVFoundation** for professional audio processing
 - **Core ML** for Apple's machine learning integration
@@ -250,12 +235,12 @@ I am working toward obtaining proper code signing certificates to eliminate this
 - **Piper TTS Engine** for neural speech synthesis
 - **MossFormer/FRCRN Models** for audio enhancement
 
-**AI Model Details:**
+**Model Details:**
 - **ONNX format** for optimal performance and compatibility
 - **Quantized models** for efficient memory usage
 - **Dynamic loading** - models loaded only when needed
 - **Progressive processing** with real-time feedback
-- **Error recovery** - graceful handling of processing failures
+- **Error recovery** - Proper handling of processing failures
 
 ---
 
@@ -269,28 +254,17 @@ I am working toward obtaining proper code signing certificates to eliminate this
 - [ ] **Multi-speaker separation** with speaker identification
 - [ ] **Automatic transcription** with timestamp alignment
 
-### **Advanced Features**
-- [ ] **Plugin architecture** for custom AI models
-- [ ] **Command-line interface** for automation
-- [ ] **AppleScript support** for workflow integration
-- [ ] **Cloud model sync** (optional) for enterprise users
-- [ ] **Shortcut integration** for iOS/macOS automation
-
 ---
 
 ## 🤝 **Support & Community**
+- If you find *Eloqi* useful, consider **giving** it **a star** to make it more visible.
+- If you find my work useful, please consider Give me a **Star** and follow me on **GitHub**:heart:
 
-### **Get Help**
-- **📧 Email Support**: [support@eloqi.com](mailto:support@eloqi.com)
-- **📖 Documentation**: [Complete user guide](docs/)
-- **🐛 Bug Reports**: [GitHub Issues](https://github.com/yourusername/eloqi/issues)
-- **💡 Feature Requests**: [GitHub Discussions](https://github.com/yourusername/eloqi/discussions)
+Got questions, issues, or ideas bout what we can impliment? Want to help Eloqi grow? Here’s how to connect:
 
-### **Technical Support**
-- **AI Model Issues**: Detailed troubleshooting guides available
-- **Performance Optimization**: Tips for different Mac configurations
-- **Voice Model Management**: Download and organization help
-- **Integration Support**: Workflow automation assistance
+- **📧 Email Support**: [support@eloqi.com](mailto:Abhishekolkha555@gmail.com)
+- **🐛 Bug Reports**: [GitHub Issues](https://github.com/itsabhishekolkha/Eloqi/issues)
+- **💡 Feature Requests**: [GitHub Discussions](https://github.com/itsabhishekolkha/Eloqi/discussions)
 
 ---
 
@@ -298,69 +272,34 @@ I am working toward obtaining proper code signing certificates to eliminate this
 
 <div align="center">
 
-### 🎯 **Professional AI Tools - Limited Time Offer**
 
-| **License** | **Price** | **Features** |
-|:---:|:---:|:---|
-| **Pro License** | ~~$149~~ **$74** | ✅ All AI models included<br>✅ Unlimited voice downloads<br>✅ Lifetime updates<br>✅ Priority AI support<br>✅ Commercial use rights |
-| **Evaluation** | **Free** | ✅ 7-day full access<br>✅ All AI features<br>⚠️ Watermarked output<br>⚠️ Limited exports per day |
+[🛒 **Get Pro License - 75% OFF**](https://github.com/itsabhishekolkha/Eloqi/releases) • [🆓 **Download Trial**](https://github.com/itsabhishekolkha/Eloqi/releases)
 
-[🛒 **Get Pro License - 50% OFF**](https://github.com/yourusername/eloqi/releases) • [🆓 **Download Trial**](https://github.com/yourusername/eloqi/releases)
-
-**🔒 30-day money-back guarantee • 🎯 One-time purchase, no subscriptions • 🚀 Instant access to all AI models**
+**🔒 30-day money-back guarantee • 🎯 One-time purchase, no subscriptions • 🚀 Instant access to everything**
 
 </div>
 
 ---
 
-## 📄 **License & AI Model Usage**
-
-This software includes professionally licensed AI models and is commercially licensed for end-user applications.
-
-### **Included AI Models**
-- **Piper TTS Models**: Licensed for commercial text-to-speech generation
-- **MossFormer Models**: Licensed for professional audio enhancement
-- **FRCRN Models**: Licensed for real-time audio processing
-
-### **Usage Rights**
-- **Personal Use**: Full access to all AI features
-- **Commercial Use**: Included with Pro license
-- **Model Redistribution**: Not permitted
-- **API Integration**: Available for enterprise customers
-
-Full license terms and model attributions available in [LICENSE](LICENSE) file.
-
----
-
-## 🌟 **AI Model Performance**
-
-### **Benchmark Results** (Apple M2 Pro)
-
-| **Model** | **Task** | **Processing Speed** | **Quality Score** |
-|:---:|:---:|:---:|:---:|
-| MossFormer2 SE 48K | Speech Enhancement | 5x real-time | 4.8/5.0 |
-| MossFormerGAN SE 16K | Noise Reduction | 8x real-time | 4.6/5.0 |
-| FRCRN SE 16K | Real-time Enhancement | 15x real-time | 4.2/5.0 |
-| Piper TTS (High Quality) | Speech Synthesis | 20x real-time | 4.9/5.0 |
-
+## 🌟 **Model Performance**
 *Results may vary based on hardware configuration and audio content*
 
----
+## Credits
+We are deeply grateful to the open-source community for their remarkable contributions, which have been pivotal in the development of this project. Special recognition goes to the following:
 
-<div align="center">
+ClearerVoice-Studio by @modelscope. Their cutting-edge AI-powered speech processing toolkit, featuring advanced models for speech enhancement, separation, and super-resolution, forms a critical foundation of our audio processing capabilities. We sincerely appreciate their dedication to advancing speech technology and sharing their pre-trained models and scripts with the community.
+Piper by @rhasspy. Their high-performance, local neural text-to-speech system has greatly enriched our project's ability to deliver seamless, high-quality speech synthesis. We are thankful for their innovative approach and commitment to open-source principles.
+Contributors: If anyone wants to suggest you are most welcome.
+Open-Source Community: This project thrives thanks to the countless open-source libraries and tools we build upon. We are committed to contributing back to this vibrant ecosystem and welcome others to join us in this collaborative journey.
 
-### 🌟 **Ready to Experience AI-Powered Audio?**
 
-**Download Eloqi today and transform your media workflow with professional AI tools**
+## License
+[MIT License](https://github.com/)
 
-[🚀 **Get Eloqi Pro**](https://github.com/yourusername/eloqi/releases) • [📧 **Contact Sales**](mailto:sales@eloqi.com) • [🎯 **Try Free Trial**](https://github.com/yourusername/eloqi/releases)
+ 
 
----
 
-**Made with ❤️ and AI for macOS • Copyright © 2024 Eloqi**
+**Made with ❤️ and AI for macOS • Copyright © 2025 Eloqi**
 
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1da1f2.svg)](https://twitter.com/eloqiapp)
-[![Website](https://img.shields.io/badge/Website-Visit-blue.svg)](https://eloqi.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Star-black.svg)](https://github.com/yourusername/eloqi)
 
 </div>
