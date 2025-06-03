@@ -9,7 +9,7 @@
 [![macOS](https://img.shields.io/badge/macOS-13.0+-blue.svg)](https://www.apple.com/macos/)
 [![Swift](https://img.shields.io/badge/Swift-5.0+-orange.svg)](https://swift.org/)
 [![License](https://img.shields.io/badge/License-Commercial-green.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/Version-1.0-brightgreen.svg)](https://github.com/yourusername/eloqi/releases)
+[![Version](https://img.shields.io/badge/Version-1.0-brightgreen.svg)](https://pub-0c627237fa784b5baec2d7b5d777c96a.r2.dev/releases/Eloqi-v1.0.0.dmg)
 
 <a href="https://github.com/itsabhishekolkha/Eloqi/releases/download/v1.0.0/RetinaScale.2.0.0.dmg"><img src="https://github.com/user-attachments/assets/a959a0d3-703f-4740-a6ec-ddbaceb0cf74" width="180" alt="Download for macOS"/></a><br/> 
 <sub><b>The latest app version requires macOS 13.0 (Vantura) or later.</b></sub>
@@ -145,7 +145,7 @@ Transform any media file with **25+ professional tools**:
 ## Installation
 
 ### Download and Install
-1. Download the latest release from [GitHub Releases](https://github.com/yourusername/eloqi/releases)
+1. Download the latest release from [GitHub Releases](https://pub-0c627237fa784b5baec2d7b5d777c96a.r2.dev/releases/Eloqi-v1.0.0.dmg)
 2. Drag Eloqi to your Applications folder to complete the installation
 
 ### Important Security Notice for macOS Users
@@ -260,7 +260,7 @@ I am working toward obtaining proper code signing certificates to eliminate this
 - If you find *Eloqi* useful, consider **giving** it **a star** to make it more visible.
 - If you find my work useful, please consider Give me a **Star** and follow me on **GitHub**:heart:
 
-Got questions, issues, or ideas bout what we can impliment? Want to help Eloqi grow? Here’s how to connect:
+Got questions, issues, or ideas bout what we can impliment? Want to help Eloqi grow? Here's how to connect:
 
 - **📧 Email Support**: [support@eloqi.com](mailto:Abhishekolkha555@gmail.com)
 - **🐛 Bug Reports**: [GitHub Issues](https://github.com/itsabhishekolkha/Eloqi/issues)
@@ -272,8 +272,11 @@ Got questions, issues, or ideas bout what we can impliment? Want to help Eloqi g
 
 <div align="center">
 
+**Support Eloqi Development - Choose Your Payment Method**
 
-[🛒 **Get Pro License - 75% OFF**](https://github.com/itsabhishekolkha/Eloqi/releases) • [🆓 **Download Trial**](https://github.com/itsabhishekolkha/Eloqi/releases)
+[💳 **Razorpay**](https://rzp.io/rzp/Eloqi) • [🌍 **PayPal**](https://www.paypal.com/ncp/payment/QKC9JKXXANTMC) • [☕ **Buy Me a Coffee**](https://buymeacoffee.com/abhishekolkha)
+
+[🛒 **Get Pro License - 75% OFF**](https://github.com/itsabhishekolkha/Eloqi/releases) • [🆓 **Download Trial**](https://pub-0c627237fa784b5baec2d7b5d777c96a.r2.dev/releases/Eloqi-v1.0.0.dmg)
 
 **🔒 30-day money-back guarantee • 🎯 One-time purchase, no subscriptions • 🚀 Instant access to everything**
 
