@@ -15,7 +15,7 @@
 <sub><b>The latest app version requires macOS 13.0 (Vantura) or later.</b></sub>
 
 </div>
-## *Note:-* please read the installation guide below for proper guide and details.
+**Note:-** please read the installation guide below for proper guide and details.
 ---
 
 ## ✨ **What Makes Eloqi Special?**
