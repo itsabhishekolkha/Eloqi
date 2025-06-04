@@ -209,16 +209,18 @@ I am working toward obtaining proper code signing certificates to eliminate this
 
 <div align="center">
 
-### Neural Text-to-Speech Interface
-![TTS Interface](https://github.com/user-attachments/assets/7631f444-7ccb-49a6-b7e7-9938160c9006)
+### Neural Text-to-Speech
+![TTS Interface](https://github.com/user-attachments/assets/18eb8ee4-b9d3-49b2-9f40-078f783fd3f6)
+
 
 ### ClearVoice AI Enhancement
-![ClearVoice](https://github.com/user-attachments/assets/d68cec07-528c-4bb9-961c-6c21e5fd1b32)
+![ClearVoice](https://github.com/user-attachments/assets/f4d1ef94-8a3c-494c-b326-d2c25f27f24c)
 
 ### Comprehensive Media Tools
-![Media Tools 1](https://github.com/user-attachments/assets/ce6ebe3a-1381-4ee5-8722-44b56fc93e88)
-![Media Tools 2](https://github.com/user-attachments/assets/d5d71a00-0a4b-44ae-8616-e83208569218)
-![Media Tools 3](https://github.com/user-attachments/assets/e63932dc-a54d-437f-8cac-989436c23b7e)
+![Media Tools 1](https://github.com/user-attachments/assets/d66e25b1-ce8b-418d-98f2-98ffd17515fd)
+![Media Tools 2](https://github.com/user-attachments/assets/3913c935-4cbd-4735-bf59-cdfb42624462)
+![Media Tools 3](https://github.com/user-attachments/assets/fd21fbb9-853e-4627-9c8d-7a7161ad692d)
+
 
 </div>
 
