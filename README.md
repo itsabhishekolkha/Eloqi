@@ -251,11 +251,7 @@ I am working toward obtaining proper code signing certificates to eliminate this
 ### **Coming Soon**
 - [ ] **Real-time voice cloning** with few-shot learning
 - [ ] **Batch TTS processing** for large documents
-- [ ] **Custom voice training** from audio samples
-- [ ] **Advanced audio effects** with AI preprocessing
-- [ ] **Multi-speaker separation** with speaker identification
-- [ ] **Automatic transcription** with timestamp alignment
-
+- [ ] **More Natural Voices** for TTS
 ---
 
 ## 🤝 **Support & Community**
